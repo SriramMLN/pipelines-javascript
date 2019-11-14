@@ -13,7 +13,7 @@
     "mocha": "^3.0.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-mocha": "^2.2.0",
     "mocha-junit-reporter": "^1.12.0", 
     "gulp-istanbul": "^1.1.3", 
